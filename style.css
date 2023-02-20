@@ -1,0 +1,32 @@
+#window{
+    width: 170%;
+    margin-top: 50px;
+    background-color: rgb(2, 61, 2);
+    color: #fff;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px black;
+}
+
+body{
+    background-color: black;
+}
+
+.space{
+    height: 20px;
+}
+.smallspace{
+    height: 10px;
+}
+
+em > a {
+    color: #fff;
+}
+
+
+em{
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    color: #fff;
+}
